@@ -1,0 +1,11 @@
+{
+  "name": "reversi-prime",
+  "version": "1.0.0",
+  "description": "Premium web Reversi — local duel, AI opponents, online play with friends, career progression, chat and daily missions.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes serve -l 8080 ."
+  },
+  "license": "MIT"
+}
